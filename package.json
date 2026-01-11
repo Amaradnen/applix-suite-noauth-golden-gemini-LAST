@@ -1,8 +1,4 @@
 {
-  "npm" "install",
-  "npm" "run",
-  "build": null,
-
   "name": "applix-suite-noauth",
   "private": true,
   "version": "1.0.0",
