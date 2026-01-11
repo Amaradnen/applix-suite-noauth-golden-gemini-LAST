@@ -1,4 +1,4 @@
-import AppShell from '../../components/AppShell';
+import AppShell from '../../components/appshell';
 
 export default function NfcStudioPage() {
   return (
